@@ -1,6 +1,6 @@
 # AWS
 AWS Pentesting
-## Regions.sh
+## regions.sh
 Use this to check lambda functions in all regions. Example: `./regions.sh ./aws.regions manager` Where "aws.regions" is your file containing AWS regions and "manager" is the aws profile you want to use. 
 ## enumerateroles.sh
 Use this to enumerate aws iam roles. Example: `./enumerateroles.sh manager` Where "manager" is the aws role you want to use. 
